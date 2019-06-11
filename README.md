@@ -1,5 +1,5 @@
 # chapter-22.1
-Made using <a href="https://www.getpaint.net/">Paint.NET</a> so because of the resolution I chose, setting it to 12 point font would make it really tiny so forgive me for that. Also I think it is for the better as you said to "Format your writing in the same way the textbook is presented."
+Made using <a href="https://www.getpaint.net/">Paint.NET</a> so because of the resolution I chose, setting it to 12 point font would make it really tiny so forgive me for that. Also I think it is for the better as you said to "format your writing in the same way the textbook is presented."
 Click on the images to open them in a new tab (bigger as well)
 <br>
 <a href="https://nexumi.github.io/chapter-22.1/Chapter%2022.1-1.png" target="_blank"><img src="Chapter 22.1-1.png" alt="Chapter 22.1 Page 1" width="100"></a>
