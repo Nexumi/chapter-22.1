@@ -1,5 +1,5 @@
 # chapter-22.1
-Made using <a href="https://www.getpaint.net/">Paint.NET</a> so because of the resolution I chose, setting it to 12 point font would make it really tiny so forgive me for that. Also I think it is for the better as you said to "format your writing in the same way the textbook is presented."
+Made using <a href="https://www.getpaint.net/" target="_blank">Paint.NET</a> so because of the resolution I chose, setting it to 12 point font would make it really tiny so forgive me for that. Also I think it is for the better as you said to "format your writing in the same way the textbook is presented."
 <br><br>
 Click on the images to open them in a new tab (bigger as well)
 <br>
